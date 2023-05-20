@@ -13,7 +13,5 @@ hello atqinyulong! hello git!
 hello atqinyulong! hello git!
 hello atqinyulong! hello git!
 hello atqinyulong! hello git!
-<<<<<<< HEAD
 hello atqinyulong! hello git! maste test
 hello atqinyulong! hello git! hot-fix test
->>>>>>> hot-fix
